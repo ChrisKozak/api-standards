@@ -566,8 +566,8 @@ The API returns all the users in the system with respective `self` links.
 ```
 
 {
-    "total_items": "166",
-    "total_pages": "83",
+    "total_items": 166,
+    "total_pages": 83,
     "users": [
     {
         "given_name": "James",
